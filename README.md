@@ -1,5 +1,4 @@
-# Captcha-Recognition-using-Artificial-Intelligence
-Solving complex and intersected captcha by using CNN algorithm
+# Solving reaL complex and intersected captcha by using CNN algorithm
 
 This is an example of the captcha image: the problem is that it has very complex background. there is a must to remove the back ground first by using cv2 processes and then slicing the letters and numbers by specific rules.
 
@@ -13,6 +12,9 @@ This is an example of the captcha image: the problem is that it has very complex
   check versions compatability
 #### Output Accuracy : 85 % 
 #### Recommendations for further improvement:
+  
   1.Slicing can be improved to separate the letters and numbers clearly.
+  
   2.Image segmentation using CNN instead of slicing.
+  
   3.Background removal using another algo.
