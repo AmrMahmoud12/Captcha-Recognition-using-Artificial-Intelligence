@@ -1,13 +1,15 @@
-# Solving reaL complex and intersected captcha by using CNN algorithm
+# Solving complex and intervened captcha by using CNN algorithm
+The main problems in this captcha is:
+
+1. complex background.
+2. intervened items.
 
 This is an example of the captcha image: the problem is that it has very complex background. there is a must to remove the back ground first by using cv2 processes and then slicing the letters and numbers by specific rules.
 
-![2QURM](https://user-images.githubusercontent.com/40704091/78456791-0cd29f00-76a6-11ea-9c58-87e17824110f.jpg)
+
+![Screenshot from 2020-04-04 19-24-41](https://user-images.githubusercontent.com/40704091/78457385-08a88080-76aa-11ea-8b5b-ba0eb9743601.png)
 
 
-![6](https://user-images.githubusercontent.com/40704091/78456766-ea408600-76a5-11ea-8ec3-de209a20dc7d.jpeg)
-
-![download](https://user-images.githubusercontent.com/40704091/78456878-ccbfec00-76a6-11ea-99bb-063da8178e6b.jpeg)
 #### Tips:
   check versions compatability
 #### Output Accuracy : 85 % 
