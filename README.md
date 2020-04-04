@@ -10,7 +10,8 @@ This is an example of the captcha image: the problem is that it has very complex
 
 ![download](https://user-images.githubusercontent.com/40704091/78456878-ccbfec00-76a6-11ea-99bb-063da8178e6b.jpeg)
 
-##Output Accuracy : 85 % 
-##Recommendations:
-  1. Slicing can be imporved to separate the letters and numbers clearly.
-  2. Image segmentation using CNN.
+## Output Accuracy : 85 % 
+## Recommendations for further improvement:
+  1.Slicing can be improved to separate the letters and numbers clearly.
+  2.Image segmentation using CNN instead of slicing.
+  3.Background removal using another algo.
